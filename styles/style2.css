@@ -1,0 +1,18 @@
+h1{
+    font-size:30px;
+    text-align:center;
+}
+h2{
+    font-size: 20px;
+    margin-left: 30px;
+    color: rgb(190, 69, 69)
+}
+.cool{
+    color:rgb(106, 164, 250);
+}
+body{
+    background-color:rgb(45, 152, 54);
+    width: 600px;
+    margin:0 auto;
+    padding: 0 20px 20px 20px;
+}
